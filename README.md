@@ -18,10 +18,11 @@ Follow these steps to set up and run MiniBOT_7 on your system.
    git clone https://github.com/DawoodTouseef/MiniBOT_7.git
 
 ## Install Dependencies:
-bash:
-# Navigate to the project directory
-cd MiniBOT_7
 
+# Navigate to the project directory
+```
+cd MiniBOT_7
+```
 # Install required packages
 ```python
 python setup.py install
