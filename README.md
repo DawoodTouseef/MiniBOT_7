@@ -21,17 +21,17 @@ bash:
 cd MiniBOT_7
 
 # Install required packages
+```python
+python setup.py install
 ```
-python setup.py install 
 
-'''
 
 ## Run the Chatbot:
 
-```
+```python
 python chatbot.py
-
 ```
+
 This command will start the chatbot in your terminal or command prompt.
 
 Usage
