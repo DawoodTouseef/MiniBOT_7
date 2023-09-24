@@ -41,7 +41,7 @@ Contributing
 If you have ideas or would like to contribute to this project, you can create a pull request. Your contributions are welcome and will be integrated into the project in the future.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the GPL License.
 
 Acknowledgments
 Special thanks to OpenAI for their GPT-3.5 architecture, which powers the chatbot.
