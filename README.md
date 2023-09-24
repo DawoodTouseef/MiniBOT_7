@@ -2,6 +2,8 @@
 
 MiniBOT_7 is a chatbot designed to run on your system. It can assist with various tasks and inquiries. This README provides an overview of the project and instructions on how to set it up.
 
+## Code
+The Code of this Bot is in Differnt Branch 
 ## Requirements
 
 - Minimum 9GB of RAM
@@ -29,7 +31,7 @@ python setup.py install
 ## Run the Chatbot:
 
 ```python
-python chatbot.py
+python llama.py
 ```
 
 This command will start the chatbot in your terminal or command prompt.
