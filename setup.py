@@ -1,6 +1,6 @@
 from setuptools import setup
 
-install_reuires=['llama-cpp-python==0.2.6',"tqdm==4.6.61","requests","playsound","sentencepiece","tiktoken","speechbrain","sounddevice","holidays","GitPython","transformers==4.31.0","botocore","pyAudioAnalysis==0.3.5","soundfile","torch==1.12.1","huggingsound","numpy==1.24","pydub","torchaudio==0.12.1","Pyaudio","textblob","pvporcupine"]
+install_reuires=['llama-cpp-python==0.2.6',"tqdm==4.6.61","requests","playsound","sentencepiece","tiktoken","GitPython","transformers==4.31.0"]
 setup(
     name='MINIbot_7',
     version='0.0.1',
