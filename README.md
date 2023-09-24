@@ -13,7 +13,7 @@ Follow these steps to set up and run MiniBOT_7 on your system.
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/DawoodTouseef/MiniBOT_7.git
 
 ## Install Dependencies:
 bash:
